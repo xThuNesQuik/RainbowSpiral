@@ -1,10 +1,10 @@
 # RainbowSpiral
 It is a mix of these colors:
-Yellow
-Blue
-Green
-Red
-Magenta
+Yellow,
+Blue,
+Green,
+Red,
+Magenta.
 
 suport
 
