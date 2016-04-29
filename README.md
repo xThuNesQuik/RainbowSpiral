@@ -1,5 +1,10 @@
 # RainbowSpiral
-is a spiral of colors is impressive
+It is a mix of these colors:
+Yellow
+Blue
+Green
+Red
+Magenta
 
 suport
 
