@@ -1,0 +1,5 @@
+name: RainbowSpiral
+author: NesQuik
+version: 1.0
+api: [1.8.0, 2.0.0]
+main: NesQuik\RainbowSpiral
